@@ -58,6 +58,6 @@ def contact():
 <<<<<<< HEAD
     app.run(debug=True)
     '''
-=======
-    app.run(debug=True)'''
->>>>>>> 67ab29ba5592066837d80915c03fa6e8e6124dbc
+
+app.run(debug=True)
+
