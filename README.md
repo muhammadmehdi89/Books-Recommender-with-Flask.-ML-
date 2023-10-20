@@ -1,4 +1,4 @@
-Experience a personalized reading journey with our Flask-based book recommender system. Powered by Python and utilizing collaborative filtering with cosine similarity, this application analyzes user ratings to suggest books tailored to your unique taste. Discover your next favorite read with precision and ease.
+Experience our Flask-based book recommender system. Powered by Python and utilizing collaborative filtering with cosine similarity, this application analyzes user ratings to suggest books tailored to your unique taste. Discover your next favorite read with precision and ease.
 
 Key Features:
 
